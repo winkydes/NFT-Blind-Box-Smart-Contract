@@ -12,3 +12,7 @@ The image resources are stored in pinata cloud that is connected to the IPFS. As
 5. After updating the URI, you can try mint a NFT using the mintKeithMeta function specified in the contract, and remember to activate sales and send enough ETH to the transaction (default set to 0.3ETH)
 6. Copy your contract address and go to the testnet version of OpenSea.io (https://testnets.opensea.io/), paste the contract address on searchbox to find your contract.
 7. You should see the blindbox NFT by then. Use the flipReveal() function to unlock the blindbox.
+
+## Technologies
+1. Solidity
+2. OpenZepplin
