@@ -864,11 +864,11 @@
 			]
 		},
 		"Contracts/blindBoxContract.sol": {
-			"keccak256": "0x6662f5915c59310022ebae4de1879df9d3cd1fcb4266b32894db8b1e8d70429b",
+			"keccak256": "0xd2f552d86e70999bd81822782aeacb4d965c818053877476ae2a3fd20627beed",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://fca83711355a8afbd3630a562d8f63cc4495c32eb977bb42a4340d7a99203a9e",
-				"dweb:/ipfs/QmXsKEsarcELRmfXasKG3WQ6hvugKSNjsLkRn9snX3jKXs"
+				"bzz-raw://9a26cac6c8cde1094d2ca2461f8954110183b9841a191e7813b68c03f7e42ea7",
+				"dweb:/ipfs/QmczCCMvp9kbQo7XPxvRn9km7t3HwPezZmSz4NKKZdSz5x"
 			]
 		}
 	},

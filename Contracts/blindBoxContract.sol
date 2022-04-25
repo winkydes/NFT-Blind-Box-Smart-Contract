@@ -1,6 +1,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
+//Disclaimer: most of the code used below are referenced from a third party github repository. (https://github.com/niclin/nic_meta) The code below is only for testing only and will not server any business purpose.
 import "@openzeppelin/contracts/token/ERC721/extensions/ERC721Enumerable.sol";
 import "@openzeppelin/contracts/access/Ownable.sol";
 import "@openzeppelin/contracts/utils/Strings.sol";
@@ -24,7 +25,7 @@ contract blindBoxContract is ERC721Enumerable, Ownable {
     mapping(uint256 => string) private _tokenURIs;
 
     constructor(string memory initBaseURI, string memory initNotRevealedUri)
-        ERC721("Keith Meta", "KM")
+        ERC721("Test Contract 2", "TC")
     {
         setBaseURI(initBaseURI);
         setNotRevealedURI(initNotRevealedUri);
