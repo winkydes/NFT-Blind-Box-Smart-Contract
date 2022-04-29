@@ -1,5 +1,6 @@
 # NFT-Blind-Box-Smart-Contract
 This is a repo that contains a NFT blind box smart contract, with functions like activating sales, minting NFT and reveal box content. The contract has to be implemented on the blockchain in order to work. This repo is only for studying purpose and will not be used for any business purpose.
+For a more detailed documentation in Chinese, please checkout the word file under documentation.
 
 ## Purpose
 This repo is only served as a demo of a NFT blindbox event. You can follow the instructions below and try to create a NFT blindbox event.
